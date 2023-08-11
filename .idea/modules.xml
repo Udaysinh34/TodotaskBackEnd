@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiGateWays/ApiGateWay.iml" filepath="$PROJECT_DIR$/ApiGateWays/ApiGateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmailService/EmailService.iml" filepath="$PROJECT_DIR$/EmailService/EmailService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" filepath="$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToDoTrackerBE.iml" filepath="$PROJECT_DIR$/ToDoTrackerBE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodoTracker/TodoTracker.iml" filepath="$PROJECT_DIR$/TodoTracker/TodoTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserAuthenticationService/UserAuthenticationService.iml" filepath="$PROJECT_DIR$/UserAuthenticationService/UserAuthenticationService.iml" />
+    </modules>
+  </component>
+</project>
